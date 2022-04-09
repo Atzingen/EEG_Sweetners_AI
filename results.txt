@@ -1,0 +1,19 @@
+Resultados
+
+best_model_605.h5 - Geral - 64.52%
+agua    	 0.6709677419354839 %
+acucar   	 0.200 %
+aspartame 	 0.6397849462365591 %
+sucralose 	 100.0 %
+
+best_model_601.h5 - Geral - 64.07%
+agua    	 0.632258064516129 %
+acucar   	 0.2838709677419355 %
+aspartame 	 0.5860215053763441 %
+sucralose 	 100.0 %
+
+best_model_599.h5 - Geral - 64.22%
+agua    	 0.7741935483870968 %
+acucar   	 0.36129032258064514 %
+aspartame 	 0.6397849462365591 %
+sucralose 	 0.7688172043010753 %
